@@ -1,0 +1,10 @@
+language: "de_DE" # <- de_DE or en_EN.yml
+money-symbol: "$"
+use-vault: true
+use-luckperms: true
+
+# Only these ranks may be assigned via "rank:"
+allowed-ranks:
+  - vip
+  - hero
+  - elite

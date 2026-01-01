@@ -1,0 +1,52 @@
+# ----------------------
+# Giveaway - English Language File
+# ----------------------
+
+# 🔹 Help Command
+help-title: "&e&lGIVEAWAY HELP"
+help-admin-create: "§6➤ §a/giveaway create <price> <winners> <time> §8- §fStart a giveaway"
+help-admin-end: "§6➤ §a/giveaway end §8- §fEnd the giveaway"
+help-admin-reload: "§6➤ §a/giveaway reload §8- §fReload config & language"
+help-join: "§b➤ §b/t §8- §fJoin the giveaway"
+help-leave: "§b➤ §b/l §8- §fLeave the giveaway"
+
+# 🔹 Permissions
+no-permission: "&cYou do not have permission!"
+
+# 🔹 Command Usage & Errors
+usage-create: "&cUsage: /giveaway create <price> <winners> <time>"
+input-error: "&cInvalid input!"
+created-success: "&aGiveaway successfully started!"
+giveaway-forced-end: "&cGiveaway has been force-ended!"
+reload-success: "&aConfiguration and language reloaded successfully."
+
+# 🔹 Join / Leave
+joined: "&aYou joined the giveaway!"
+already-joined: "&cYou are already in!"
+left-giveaway: "&cYou left the giveaway."
+not-in-giveaway: "&7You are not in any giveaway."
+
+# 🔹 Giveaway Events
+giveaway-started: "&a{creator} started a giveaway: &e{prize}&a!"
+join-hint: "&7Use &b/t &7to join"
+giveaway-ended: "&6Giveaway ended!"
+winner: "&6Place {place}: &e{name}"
+no-winners: "&cNo winners!"
+rank-received: "&aYou received the rank &e{rank}&a!"
+rank-invalid: "&cInvalid rank: &e{rank}"
+winner-list: "&6Winner: &e{list}"
+
+# 🔹 Rewards
+money-received: "&aYou received {amount}{symbol}!"
+money-invalid: "&cInvalid money value!"
+item-received: "&aYou received the item &e{item}&a!"
+invalid-item: "&cInvalid item!"
+vault-disabled: "&cVault is disabled. No money has been given."
+
+# 🔹 Actionbar
+actionbar-time: "&6Giveaway: &e{prize} &7| Ends in: &c{time}"
+actionbar-join: "&b/t &7to join!"
+
+# 🔹 Logic Errors
+already-running: "&cA giveaway is already running!"
+no-giveaway: "&cNo giveaway is active."

@@ -1,0 +1,27 @@
+name: Giveaway
+version: '1.0.0'
+main: com.tehrionstudio.giveaway.Giveaway
+api-version: '1.21'
+authors: [ MindOfBeni ]
+description: Giveaway by STUDIO TEHRION
+website: https://studio.tehrion.com
+depend: [Vault, LuckPerms]
+commands:
+  giveaway:
+    description: Steuert das Giveaway-System
+    usage: /giveaway <help|create|end|reload>
+    aliases: [ga, gw]
+    permission: admin.giveaway
+  t:
+    description: Trete dem Giveaway bei
+    usage: /t
+    aliases: [teilnehmen, joinen]
+  l:
+    description: Verlasse das Giveaway
+    usage: /l
+    aliases: [verlassen, leave]
+
+permissions:
+  admin.giveaway:
+    description: Erlaubt das Erstellen, Beenden und Reloaden von Giveaways
+    default: op

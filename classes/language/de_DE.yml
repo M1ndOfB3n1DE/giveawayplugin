@@ -1,0 +1,52 @@
+# ----------------------
+# Giveaway - Deutsch
+# ----------------------
+
+# 🔹 Hilfe / Befehle
+help-title: "&e&lGIVEAWAY HILFE"
+help-admin-create: "§6➤ §a/giveaway create <preis> <anzahl> <zeit> §8- §fStartet ein Giveaway"
+help-admin-end: "§6➤ §a/giveaway end §8- §fBeendet das Giveaway"
+help-admin-reload: "§6➤ §a/giveaway reload §8- §fLädt Konfiguration und Sprache neu"
+help-join: "§b➤ §b/t §8- §fNimm teil"
+help-leave: "§b➤ §b/l §8- §fVerlasse das Giveaway"
+
+# 🔹 Berechtigungen & Zugriff
+no-permission: "&cDu hast keine Berechtigung!"
+
+# 🔹 Befehlsnutzung & Eingabe
+usage-create: "&cBenutzung: /giveaway create <preis> <anzahl> <zeit>"
+input-error: "&cFehlerhafte Eingabe!"
+created-success: "&aGiveaway erfolgreich gestartet!"
+giveaway-forced-end: "&cGiveaway wurde manuell beendet!"
+reload-success: "&aKonfiguration und Sprache wurden neu geladen."
+
+# 🔹 Teilnahme
+joined: "&aDu nimmst jetzt beim Giveaway teil!"
+already-joined: "&cDu bist bereits dabei."
+left-giveaway: "&cDu hast das Giveaway verlassen."
+not-in-giveaway: "&7Du bist in keinem Giveaway."
+
+# 🔹 Events
+giveaway-started: "&a{creator} hat ein Giveaway gestartet: &e{prize}&a!"
+join-hint: "&7Mit &b/t &7beitreten"
+giveaway-ended: "&6Giveaway beendet!"
+winner: "&6Platz {place}: &e{name}"
+no-winners: "&cKeine Gewinner!"
+rank-received: "&aDu hast den Rang &e{rank} &aerhalten!"
+rank-invalid: "&cUngültiger Rang: &e{rank}"
+winner-list: "&6Gewinner: &e{list}"
+
+# 🔹 Gewinne
+money-received: "&aDu hast {amount}{symbol} gewonnen!"
+money-invalid: "&cUngültiger Geldbetrag!"
+vault-disabled: "&cVault ist deaktiviert. Kein Geld vergeben."
+item-received: "&aDu hast das Item &e{item} &aerhalten!"
+invalid-item: "&cUngültiger Item-Name!"
+
+# 🔹 Actionbar
+actionbar-time: "&6Giveaway: &e{prize} &7| Endet: &c{time}"
+actionbar-join: "&b/t &7um teilzunehmen!"
+
+# 🔹 Status
+already-running: "&cEin Giveaway ist bereits aktiv!"
+no-giveaway: "&cEs ist kein Giveaway aktiv."
