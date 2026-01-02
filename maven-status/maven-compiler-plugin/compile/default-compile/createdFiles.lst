@@ -1,8 +1,0 @@
-com\tehrionstudio\giveaway\commands\GiveawayTabCompleter.class
-com\tehrionstudio\giveaway\util\LanguageManager.class
-com\tehrionstudio\giveaway\commands\JoinCommand.class
-com\tehrionstudio\giveaway\Giveaway.class
-com\tehrionstudio\giveaway\manager\GiveawayManager.class
-com\tehrionstudio\giveaway\commands\GiveawayCommand.class
-com\tehrionstudio\giveaway\commands\LeaveCommand.class
-com\tehrionstudio\giveaway\task\GiveawayTask.class
